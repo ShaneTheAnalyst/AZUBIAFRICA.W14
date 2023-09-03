@@ -1,4 +1,4 @@
-# CE_auto
+# CE_auto WEEK14 EC2/ELB/
 
 ### Problem Statement: 
 
@@ -6,9 +6,9 @@ You've been tasked with creating a flexible infrastructure for an eco-friendly c
 
 ### Guidelines/Goals:
 
-- Create EC2 Instances and Load Balancer:
+- Create EC2 Instances and Load balancers:
 - Create an Elastic Load Balancer (ELB) to distribute traffic.
-- Create an Auto Scaling Group for the EC2 instances.
+- Create an auto-scaling group for the EC2 instances.
 - Configure scaling policies to add or remove instances based on CPU utilization.
 
 
